@@ -34,6 +34,7 @@ Flutter Developer with 5+ years of experience building scalable Android & iOS ap
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Supabase](https://img.shields.io/badge/Rest-API-3ECF8E?style=for-the-badge&logo=restapi)
 
 ### State Management
 
