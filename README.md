@@ -29,27 +29,32 @@ Flutter Developer with 5+ years of experience building scalable Android & iOS ap
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Backend & Database
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Supabase](https://img.shields.io/badge/Rest-API-3ECF8E?style=for-the-badge&logo=restapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-3ECF8E?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ### State Management
 
-- GetX
-- Bloc
-- Riverpod
-- Provider
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-00A8E8?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge)
 
 ### Tools
 
-- Git
-- GitHub
-- Postman
-- VS Code
-- Android Studio
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
