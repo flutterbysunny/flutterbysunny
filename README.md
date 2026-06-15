@@ -94,9 +94,9 @@ Supports:
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- YouTube (SMTechViral)
-- Email
+-![Linkdine](https://www.linkedin.com/in/sunny-singh-83496218b/)
+-![Youtube ](https://www.youtube.com/channel/UC2RPeAmvoM7nmXB1PFFqTtQ)
+- Email:- ns613017@gmail.com
 
 ⭐ Open for Flutter Developer Opportunities
 
