@@ -101,5 +101,3 @@ Supports:
 ---
 
 ⭐ Open for Flutter Developer Opportunities
-
-isko or best or strong or attractive banana hai tumhare hisab se update krdo
