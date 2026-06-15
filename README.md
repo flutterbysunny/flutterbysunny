@@ -5,6 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://sunny-portfolio-cb11a.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sunny-singh-83496218b/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ns613017@email.com)
+[![LinkedIn](https://img.shields.io/badge/Youtube-Visit-red)](https://www.youtube.com/channel/UC2RPeAmvoM7nmXB1PFFqTtQ)
+
 
 ---
 
