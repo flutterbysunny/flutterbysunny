@@ -94,9 +94,22 @@ Supports:
 
 ## 📫 Connect With Me
 
--![Linkdine](https://www.linkedin.com/in/sunny-singh-83496218b/)
--![Youtube ](https://www.youtube.com/channel/UC2RPeAmvoM7nmXB1PFFqTtQ)
-- Email:- ns613017@gmail.com
+📬 Connect With Me
+
+🌐 Portfolio
+https://sunny-portfolio-cb11a.web.app
+
+💼 LinkedIn
+Sunny Singh
+
+📺 YouTube (SMTechViral)
+SMTechViral Channel
+
+📧 Email
+ns613017@gmail.com
+
+🐙 GitHub
+flutterbysunny
 
 ⭐ Open for Flutter Developer Opportunities
 
