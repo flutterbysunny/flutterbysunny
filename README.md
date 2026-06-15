@@ -1,80 +1,129 @@
-# 🚀 Sunny Singh
+# 👋 Hi, I'm Sunny Singh
 
-### Senior Flutter Developer | 5+ Years Experience | Mobile App Engineer | AI Enthusiast | Open to Work
+## 🚀 Senior Flutter Developer | Mobile App Engineer | AI Enthusiast | Open to Work
 
 <p align="center">
   <a href="https://sunny-portfolio-cb11a.web.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/flutterbysunny">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">📧 Email</a>
+  <a href="YOUR_LINKEDIN">💼 LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">📧 Email</a> •
+  <a href="https://github.com/flutterbysunny">💻 GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flutterbysunny&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=flutterbysunny&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-Flutter Developer with **5+ years of experience** building scalable, high-performance Android, iOS, and Web applications.
+Senior Flutter Developer with **5+ years of experience** building scalable, production-ready mobile and web applications.
 
-I specialize in developing production-ready mobile applications using modern Flutter architecture, state management solutions, REST APIs, Firebase, Supabase, and AI integrations.
+I specialize in developing high-performance Android, iOS, and Flutter Web applications using modern architecture, clean code practices, state management solutions, cloud services, and AI integrations.
+
+```yaml
+Name        : Sunny Singh
+Role        : Senior Flutter Developer
+Experience  : 5+ Years
+Location    : India
+Speciality  : Flutter, AI Integrations, Clean Architecture
+GitHub      : flutterbysunny
+Portfolio   : sunny-portfolio-cb11a.web.app
+Status      : Open to Remote & Full-Time Opportunities
+```
 
 ### Highlights
 
-✅ 5+ Years of Flutter Development
+✅ 5+ Years of Professional Flutter Development
 
 ✅ Published Multiple Production Applications
 
-✅ Built AI-Powered Applications
+✅ Built AI-Powered Mobile Applications
 
-✅ Created Open Source Flutter Packages
+✅ 8+ Open Source Flutter Packages
 
-✅ Developed Custom CLI Tools
+✅ Creator of SM CLI (Flutter Code Generator)
 
-✅ Strong Expertise in Clean Architecture
+✅ Expertise in GetX, Bloc, Riverpod & Provider
 
-✅ Experience with Large Scale Applications
+✅ Experience with Firebase, Supabase & REST APIs
+
+✅ Strong Focus on Performance Optimization
 
 ✅ Founder of SMTechViral
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Career Summary
 
-### Mobile Development
+Passionate Flutter Developer experienced in designing, developing, and maintaining large-scale mobile applications.
+
+Skilled in:
+
+* Flutter & Dart
+* Clean Architecture
+* State Management
+* Firebase Ecosystem
+* REST APIs
+* AI Integrations
+* Flutter Web
+* Google Maps
+* Video & Audio Streaming
+* Payment Integration
+* CI/CD Workflows
+
+I enjoy transforming complex business requirements into elegant and scalable mobile solutions.
+
+---
+
+# 🛠️ Technical Skills
+
+## 📱 Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart)
 
-### Architecture & State Management
+### State Management
 
 * GetX
 * Bloc
 * Riverpod
 * Provider
+
+### Architecture
+
 * Clean Architecture
 * MVC
+* MVVM
+* Modular Architecture
 
-### Backend & Cloud
+---
+
+## ☁️ Backend & Cloud
 
 * Firebase
 * Supabase
 * REST APIs
 * Node.js
 * PostgreSQL
+* Authentication
+* Push Notifications
 
-### AI & Automation
+---
+
+## 🤖 AI & Automation
 
 * Gemini AI
-* OpenAI
-* OCR
-* Speech-to-Text
-* AI Chat Systems
+* OpenAI APIs
+* OCR Integration
+* Speech Recognition
+* AI Chat Applications
+* Text Extraction
 * Automation Workflows
 
-### Tools
+---
+
+## 🛠 Tools & Platforms
 
 * Git
 * GitHub
@@ -82,56 +131,71 @@ I specialize in developing production-ready mobile applications using modern Flu
 * VS Code
 * Postman
 * Figma
+* Jira
 
 ---
 
-# 🚀 Featured Projects
+# 📱 Featured Projects
 
 ## 🤖 AI OCR Scanner
 
-AI-powered document scanner with OCR, text extraction, smart analysis, and Gemini AI integration.
+AI-powered document scanner with OCR, image analysis, and Gemini AI integration.
 
-**Tech:** Flutter • OCR • Gemini AI • Camera APIs
+### Features
+
+* OCR Text Extraction
+* AI Analysis
+* Camera Integration
+* PDF Processing
+* Smart Content Recognition
+
+**Tech:** Flutter • Gemini AI • OCR • Firebase
 
 ---
 
-## 💼 Job Portal App
+## 💼 Job Portal Platform
 
-Complete recruitment ecosystem with:
+Complete job recruitment ecosystem.
+
+### Features
 
 * Resume Builder
 * Job Search
 * Job Recommendations
 * Application Tracking
-* Authentication
+* User Authentication
 * Notifications
 
-**Tech:** Flutter • GetX • Firebase • REST APIs
+**Tech:** Flutter • GetX • Firebase • APIs
 
 ---
 
 ## 🏠 Real Estate Platform
 
-Advanced property management application with:
+Advanced property management and mapping platform.
+
+### Features
 
 * Google Maps Integration
-* Dynamic Overlay Rendering
-* Project Management
+* Overlay Rendering
+* Dynamic Project Loading
 * Deep Linking
-* Property Search
+* Location Services
 
-**Tech:** Flutter • Maps • APIs • Location Services
+**Tech:** Flutter • Google Maps • REST APIs
 
 ---
 
-## 🎵 AI Music Platform
+## 🎵 AI Music & Video Platform
 
-Custom media platform featuring:
+Custom streaming platform with advanced playback capabilities.
+
+### Features
 
 * Background Playback
-* Notification Controls
 * Resume Playback
-* Analytics Tracking
+* Media Notifications
+* Analytics
 * Playlist Management
 
 **Tech:** Flutter • GetX • Audio Services
@@ -140,46 +204,56 @@ Custom media platform featuring:
 
 ## ⚡ QuickSlot
 
-Sports Slot Booking Platform
+Sports Slot Booking Application
 
-* Flutter Frontend
-* Node.js Backend
-* Supabase Database
-* Real-Time Booking
+### Features
+
+* Real-time Booking
+* Authentication
+* Payments
+* Admin Dashboard
+* Supabase Backend
+
+**Tech:** Flutter • Node.js • Supabase
 
 ---
 
-# 📦 Open Source Contributions
+# 📦 Open Source
 
-### Published Flutter Packages
+### Flutter Packages Published
 
 🚀 8+ Flutter Packages Published
 
 Including:
 
-* Utility Packages
+* Utility Libraries
 * Flutter Extensions
-* Productivity Tools
+* Developer Productivity Tools
 * Architecture Helpers
-* Developer Toolkits
+* Reusable Widgets
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
-* Open Source Contributor
-* Flutter Package Author
-* Mobile App Architect
-* Clean Architecture Advocate
-* AI Application Builder
+* 5+ Years Flutter Development Experience
+* Multiple Production Apps Delivered
+* Open Source Package Author
+* Flutter Web Development Experience
+* AI Application Development
+* Mobile App Architecture Design
+* YouTube Creator (SMTechViral)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flutterbysunny&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterbysunny&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=flutterbysunny&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterbysunny&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -208,47 +282,45 @@ Including:
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Currently Working On
 
-🔹 AI + Flutter Applications
-
-🔹 Flutter Web Development
-
-🔹 Clean Architecture Solutions
-
-🔹 Open Source Contributions
-
-🔹 Scalable Mobile Applications
-
-🔹 Developer Productivity Tools
+* AI-Powered Flutter Applications
+* Flutter Web Platforms
+* Job Portal Ecosystem
+* Clean Architecture Templates
+* Open Source Flutter Packages
+* Mobile App Performance Optimization
 
 ---
 
-# 🤝 Let's Connect
+# 📬 Let's Connect
 
-🌐 Portfolio:
-https://sunny-portfolio-cb11a.web.app/
+I am actively looking for:
 
-💼 LinkedIn:
-YOUR_LINKEDIN_URL
+✅ Senior Flutter Developer Roles
 
-📧 Email:
-YOUR_EMAIL
+✅ Remote Opportunities
 
-💻 GitHub:
-https://github.com/flutterbysunny
+✅ Freelance Projects
 
-📺 YouTube:
-SMTechViral
+✅ Flutter Consulting
+
+✅ AI + Flutter Projects
+
+🌐 Portfolio: https://sunny-portfolio-cb11a.web.app/
+
+💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/sunny-singh-83496218b/)
+
+📧 Email: ns6713017@gmail.com
+
+💻 GitHub: https://github.com/flutterbysunny
+
+📺 YouTube: smtechviral
 
 ---
 
-## ⭐ Available For
+## ⭐ Fun Fact
 
-* Senior Flutter Developer Roles
-* Remote Opportunities
-* Freelance Projects
-* Flutter Consulting
-* AI + Flutter Development
+I love building products that solve real-world problems using Flutter, AI, and scalable architecture.
 
-### "Transforming Ideas into High-Performance Mobile Applications."
+### "Turning Ideas into Beautiful, Scalable Mobile Experiences."
