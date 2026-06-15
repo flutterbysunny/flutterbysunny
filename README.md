@@ -2,9 +2,9 @@
 
 ### Flutter Developer | Mobile App Engineer | Open to Work
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://sunny-portfolio-cb11a.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sunny-singh-83496218b/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ns613017@email.com)
 
 ---
 
@@ -91,25 +91,6 @@ Supports:
 ![GitHub Streak](https://streak-stats.demolab.com?user=flutterbysunny)
 
 ---
-
-## 📫 Connect With Me
-
-📬 Connect With Me
-
-🌐 Portfolio
-https://sunny-portfolio-cb11a.web.app
-
-💼 LinkedIn
-Sunny Singh
-
-📺 YouTube (SMTechViral)
-SMTechViral Channel
-
-📧 Email
-ns613017@gmail.com
-
-🐙 GitHub
-flutterbysunny
 
 ⭐ Open for Flutter Developer Opportunities
 
